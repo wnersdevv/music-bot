@@ -1,0 +1,22 @@
+{
+  "music": {
+    "nowPlaying": "Now Playing",
+    "added": "Added to queue",
+    "paused": "Music paused",
+    "resumed": "Music resumed",
+    "stopped": "Music stopped and queue cleared",
+    "skipped": "Track skipped",
+    "noQueue": "There is nothing in the queue",
+    "notInVoice": "You must be in a voice channel to use this command",
+    "notSameVoice": "You must be in the same voice channel as the bot",
+    "volumeSet": "Volume set to %{volume}"
+  },
+  "errors": {
+    "generic": "Something went wrong, please try again",
+    "noPermission": "You don't have permission to do this",
+    "djOnly": "This action is restricted to the DJ role"
+  },
+  "settings": {
+    "updated": "Settings updated"
+  }
+}

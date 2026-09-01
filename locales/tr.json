@@ -1,0 +1,22 @@
+{
+  "music": {
+    "nowPlaying": "Şu An Çalıyor",
+    "added": "Kuyruğa eklendi",
+    "paused": "Müzik duraklatıldı",
+    "resumed": "Müzik devam ediyor",
+    "stopped": "Müzik durduruldu ve kuyruk temizlendi",
+    "skipped": "Şarkı geçildi",
+    "noQueue": "Kuyrukta şarkı yok",
+    "notInVoice": "Bu komutu kullanmak için bir ses kanalında olmalısın",
+    "notSameVoice": "Botla aynı ses kanalında olmalısın",
+    "volumeSet": "Ses seviyesi %{volume} olarak ayarlandı"
+  },
+  "errors": {
+    "generic": "Bir hata oluştu, lütfen tekrar dene",
+    "noPermission": "Bu işlemi yapmak için yetkin yok",
+    "djOnly": "Bu işlem sadece DJ rolüne sahip kullanıcılar içindir"
+  },
+  "settings": {
+    "updated": "Ayarlar güncellendi"
+  }
+}

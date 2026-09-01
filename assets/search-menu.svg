@@ -1,0 +1,50 @@
+<svg width="620" height="300" viewBox="0 0 620 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg4" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#313338"/>
+      <stop offset="100%" stop-color="#2b2d31"/>
+    </linearGradient>
+    <linearGradient id="accent4" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="shadow4" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="6" stdDeviation="10" flood-color="#000000" flood-opacity="0.35"/>
+    </filter>
+  </defs>
+
+  <rect width="620" height="300" rx="14" fill="url(#bg4)"/>
+
+  <rect x="0" y="0" width="620" height="46" rx="14" fill="#232428"/>
+  <rect x="0" y="30" width="620" height="16" fill="#232428"/>
+  <circle cx="28" cy="23" r="18" fill="#8b5cf6"/>
+  <text x="28" y="28" font-family="Segoe UI, Arial" font-size="16" font-weight="700" fill="#ffffff" text-anchor="middle">w</text>
+  <text x="56" y="20" font-family="Segoe UI, Arial" font-size="13" font-weight="700" fill="#f2f3f5">wnersdev</text>
+  <rect x="56" y="26" width="26" height="12" rx="3" fill="#5865F2"/>
+  <text x="69" y="35" font-family="Segoe UI, Arial" font-size="9" font-weight="700" fill="#ffffff" text-anchor="middle">BOT</text>
+
+  <!-- embed-style card -->
+  <rect x="24" y="60" width="572" height="212" rx="10" fill="#2b2d31" filter="url(#shadow4)"/>
+  <rect x="24" y="60" width="4" height="212" rx="2" fill="url(#accent4)"/>
+
+  <text x="46" y="90" font-family="Segoe UI, Arial" font-size="16" font-weight="700" fill="#ffffff">🔎 "gece yolculuğu" için sonuçlar</text>
+  <text x="46" y="112" font-family="Segoe UI, Arial" font-size="12" fill="#b5bac1">Aşağıdaki menüden bir şarkı seç.</text>
+
+  <!-- select menu -->
+  <rect x="46" y="130" width="528" height="42" rx="8" fill="#1e1f22" stroke="#404249" stroke-width="1"/>
+  <text x="62" y="156" font-family="Segoe UI, Arial" font-size="13" fill="#949ba4">Bir şarkı seç</text>
+  <text x="558" y="156" font-family="Arial" font-size="14" fill="#949ba4" text-anchor="end">▾</text>
+
+  <g font-family="Segoe UI, Arial" font-size="12" fill="#dbdee1">
+    <rect x="46" y="180" width="528" height="28" rx="6" fill="#35373c"/>
+    <text x="60" y="198">🎵 Gece Yolculuğu — wnersdev Mix · 03:05</text>
+
+    <rect x="46" y="212" width="528" height="28" rx="6" fill="#2f3136"/>
+    <text x="60" y="230">🎵 Gece Sürüşü Lofi · 02:48</text>
+
+    <rect x="46" y="244" width="528" height="20" rx="6" fill="#2f3136" opacity="0.6"/>
+    <text x="60" y="259" opacity="0.6">🎵 + 8 sonuç daha...</text>
+  </g>
+
+  <text x="572" y="264" font-family="Segoe UI, Arial" font-size="10" fill="#6d28d9" text-anchor="end" font-weight="700">wnersdev</text>
+</svg>
